@@ -1,0 +1,14 @@
+2017-4-8
+1.前端
+html 网页内容
+css 网页样式
+javascript* 交互
+
+2.老师的章鱼猫：XieCheng328
+
+3.GitHub.com
+repository 项目
+初始化RM √
+绿色 clone地址 复制到webstorm ：check form version
+菜单栏 vcs-version control ：上传
+菜单栏 push 推送
